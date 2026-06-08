@@ -1,0 +1,12 @@
+{
+  "manifest_version": "1.0.0",
+  "app_id": "registry_ping",
+  "title": "Registry Ping",
+  "version": "1.0.0",
+  "subtitle": "Community registry smoke test",
+  "description": "Lightweight LSM app for testing GitHub install, catalog listing, updates, and Studio embedding.",
+  "entrypoint": "scripts/gui.py",
+  "embedded_class": "ui.app:RegistryPingFrame",
+  "retriever_adapter": null,
+  "tags": ["community", "registry", "smoke-test"]
+}

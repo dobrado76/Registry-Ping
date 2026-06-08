@@ -1,0 +1,50 @@
+{
+  "show_toolbar": true,
+  "toolbar_buttons_visible": {
+    "btn_new_file": true,
+    "btn_new_folder": true,
+    "btn_import": false,
+    "btn_rename": false,
+    "btn_delete": false,
+    "btn_download": false,
+    "btn_zip": false
+  },
+  "button_width": 40,
+  "button_height": 40,
+  "button_spacing": 2,
+  "toolbar_icon_inset": 4,
+  "toolbar_background_color": "#1E1010",
+  "button_background_color": "#8C3A3A",
+  "button_hover_color": "#A84848",
+  "button_icon_color": "#F5E6D8",
+  "button_disabled_icon_color": "#9A8080",
+  "tree_background_color": "#2b2b2b",
+  "tree_foreground_color": "#E8E8E8",
+  "tree_selected_background": "#4A2828",
+  "tree_selected_foreground": "#FFFFFF",
+  "tree_font_family": "Segoe UI",
+  "tree_font_size": 14,
+  "tree_row_height": 32,
+  "tree_indent": 24,
+  "tree_icon_size": 20,
+  "tree_icon_gap": 5,
+  "tree_icon_color": "#E8C8A8",
+  "button_skin": {
+    "image": "button_skin.png",
+    "hover_image": "button_skin_hover.png",
+    "cap_insets": [8, 8, 8, 8]
+  },
+  "toolbar_icons": {
+    "btn_new_file": "btn_new_file.png",
+    "btn_new_folder": "btn_new_folder.png",
+    "btn_import": "btn_import.png",
+    "btn_rename": "btn_rename.png",
+    "btn_delete": "btn_delete.png",
+    "btn_download": "btn_download.png",
+    "btn_zip": "btn_zip.png"
+  },
+  "tree_icons": {
+    "folder": "icon_folder.png",
+    "file": "icon_file.png"
+  }
+}

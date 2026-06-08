@@ -1,0 +1,11 @@
+{
+  "publisher": "Registry Test Lab",
+  "accent_color": "#3DD6C6",
+  "card_color": "#0F1F24",
+  "card_hover_color": "#142A32",
+  "border_color": "#1E4A52",
+  "border_hover_color": "#2A7A86",
+  "icon_background": "#16343C",
+  "icon_text": "RP",
+  "icon_path": "assets/registry_ping_icon.png"
+}

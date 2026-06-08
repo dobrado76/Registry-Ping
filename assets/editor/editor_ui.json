@@ -1,0 +1,33 @@
+{
+  "button_width": 40,
+  "button_height": 40,
+  "button_spacing": 2,
+  "button_gap": 2,
+  "font_selector_width": 200,
+  "font_size_selector_width": 80,
+  "toolbar_background_color": "#1E1010",
+  "button_background_color": "#8C3A3A",
+  "button_hover_color": "#C85820",
+  "button_icon_color": "#FFE8C8",
+  "button_disabled_icon_color": "#8A7068",
+  "button_skin": {
+    "image": "button_skin.png",
+    "hover_image": "button_skin_hover.png",
+    "cap_insets": [8, 8, 8, 8]
+  },
+  "icons": {
+    "button_undo": "button_undo.png",
+    "button_redo": "button_redo.png",
+    "button_bold": "button_bold.png",
+    "button_italic": "button_italic.png",
+    "button_math": "button_math.png",
+    "button_symbol": "button_symbol.png",
+    "button_link": "button_link.png",
+    "button_comment": "button_comment.png",
+    "button_reference": "button_reference.png",
+    "button_citation": "button_citation.png",
+    "button_figure": "button_figure.png",
+    "button_table": "button_table.png",
+    "button_list": "button_list.png"
+  }
+}

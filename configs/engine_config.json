@@ -1,0 +1,9 @@
+{
+  "ui_scaling": 1.0,
+  "offline_spell_check": true,
+  "offline_grammar_check": true,
+  "offline_synonyms": false,
+  "spelling_locale": "american",
+  "custom_dictionary_scope": "story",
+  "spell_ai_suggestions": false
+}
